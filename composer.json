@@ -1,0 +1,13 @@
+{
+    "name": "ingenious/jquery-md5",
+    "description": "A jQuery utility function to encode a string in MD5",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Gabriele Romanato",
+            "email": "gabriele.romanato@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
